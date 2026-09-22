@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TestCliente/TestCliente.csproj" />
+  <Project Path="WCFProductos/WCFProductos.csproj" />
+</Solution>
